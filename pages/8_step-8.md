@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Step 8 - Evaluate Optimal Solution Architecture 
-permalink: 8_step-8/
+title: Evaluate Optimal Solution Architecture 
+permalink: /8_step-8/
 ---
 <script>
 $(function() {

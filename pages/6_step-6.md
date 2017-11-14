@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Step 6 - Partner with an Identity Provider(s)
-permalink: 6_step-6/
+title: Partner with an Identity Provider(s)
+permalink: /6_step-6/
 ---
 <script>
 $(function() {
