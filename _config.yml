@@ -5,25 +5,30 @@ email: icam@gsa.gov
 author:
     name: FICAM
 description: Federation Guidance
-baseurl: '/indrajit-gsa.github.io'
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-github_username:  indrajit-gsa
 highlighter: rouge
+repo_url: https://github.com/indrajit-gsa/indrajit-gsa.github.io
+baseurl: '/indrajit-gsa.github.io'
 branch: master
+# Federalist overwrites the site.branch value when deploying
+# the site.branch was used in dynamic link generation for objects like Edit Page
+# we want the dynamic links to send users to the staging branch.  Adding new site variable to ensure federalist doesn't overwrite.
 
-# Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /indrajit-gsa.github.io/img/logo.png
-logoalt: Federal Identity Credential and Access Management
+# Links
+# List links that you would like to appear on the top navigation bar here
+navbar:
+- title: IDmanagement.gov
+  description: Idmanagement.gov
+  url: https://www.idmanagement.gov
+- title: Federal ICAM Architecture
+  description: Federal ICAM Architecture
+  url: https://arch.idmanagement.gov
+#- title: PIV Guides
+# description: PIV Guides
+# url: https://piv.idmanagement.gov
+- title: Federal PKI Guides
+  description: Federal PKI Guides
+  url: https://fpki.idmanagement.gov
 
-ficam_playbooks_url: /ficam-guides/
-
-# Repo list
-# List repos that you would like to appear on the homepage here
-repos:
-- name: federation
-  description: FICAM Playbook - Federation Guidance
-  url: https://github.com/indrajit-gsa/indrajit-gsa.github.io
 
 # Build settings
 markdown: kramdown
