@@ -54,47 +54,47 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: Step 1 - Establish Federation Governance
+- text: Establish Federation Governance
   url: 1_step-1
   internal: true
   coll: false
-- text: Step 2 - Identify Business Considerations
+- text: Identify Business Considerations
   url: 2_step-2
   internal: true
   coll: false
-- text: Step 3 - Understand the RP Environment
+- text: Understand the RP Environment
   url: 3_step-3
   internal: true
   coll: false
-- text: Step 4 - Determine Applicability to Security and Privacy Controls
+- text: Determine Applicability to Security and Privacy Controls
   url: 4_step-4
   internal: true
   coll: false
-- text: Step 5 - Determine Acceptable Credentials
+- text: Determine Acceptable Credentials
   url: 5_step-5
   internal: true
   coll: false
-- text: Step 6 - Partner with an Identity Provider(s)
+- text: Partner with an Identity Provider(s)
   url: 6_step-6
   internal: true
   coll: false
-- text: Step 7 - Evaluate Existing Infrastructure 
+- text: Evaluate Existing Infrastructure 
   url: 7_step-7
   internal: true
   coll: false
-- text: Step 8 - Evaluate Optimal Solution Architecture
+- text: Evaluate Optimal Solution Architecture
   url: 8_step-8
   internal: true
   coll: false
-- text: Step 9 - Integrate with CSP
+- text: Integrate with CSP
   url: 9_step-9
   internal: true
   coll: false
-- text: Step 10 - Create and Manage User Accounts
+- text: Create and Manage User Accounts
   url: 10_step-10
   internal: true
   coll: false
-- text: Step 11 - Create and Manage User Accounts
+- text: Create and Manage User Accounts
   url: 11_step-11
   internal: true
   coll: false
