@@ -1,5 +1,8 @@
-# Federation Programmatic Playbook
-----------------------------------------------------------------
+---
+layout: default
+title: Introduction
+permalink: /
+---
 
 ### What is the Federation Programmatic Playbook? 
 

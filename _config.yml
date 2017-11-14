@@ -45,8 +45,8 @@ exclude:
 - vendor
 
 navigation:
-- text: Home
-  url: index.html
+- text: Introduction
+  url: ''
   internal: true
   coll: false
 - text: Step 1 - Establish Federation Governance
