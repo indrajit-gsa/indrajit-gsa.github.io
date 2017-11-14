@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Step 3 - Understand the RP Environment
 permalink: 3_step-3
 ---

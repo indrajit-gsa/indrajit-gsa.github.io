@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Step 6 - Partner with an Identity Provider(s)
 permalink: 6_step-6/
 ---

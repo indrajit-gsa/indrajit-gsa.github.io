@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Step 2 - Identify Business Considerations
 permalink: 2_step-2/
 ---

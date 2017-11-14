@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Step 7 - Evaluate Existing Infrastructure  
 permalink: 7_step-7/
 ---

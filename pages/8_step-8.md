@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Step 8 - Evaluate Optimal Solution Architecture 
 permalink: 8_step-8/
 ---

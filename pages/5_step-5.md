@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Step 5 - Determine Acceptable Credentials
 permalink: 5_step-5
 ---

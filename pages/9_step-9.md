@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Step 9 - Integrate with CSP
 permalink: 9_step-9/
 ---
